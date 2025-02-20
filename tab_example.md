@@ -1,5 +1,5 @@
 ---
-title: Open SAMMY Screenshots
+title: Screenshots
 layout:  null
 tab: true
 order: 1
