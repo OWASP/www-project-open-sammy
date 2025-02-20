@@ -1,15 +1,13 @@
 ---
 
 layout: col-sidebar
-title: OWASP Open SAMMY
+title: OWASP Open SAMMY: The OWASP SAMM Management Tool
 tags: example-tag
 level: 2
 type: code
 pitch: Open SAMMY is an open source SAMM implementation tool. 
 
 ---
-
-## Open SAMMY: The OWASP SAMM Management Tool
 
 **Open SAMMY** is an open-source **Application Security Management** tool designed to help organizations systematically assess, plan, and improve their security posture. Open SAMMY provides a structured way to manage **OWASP SAMM (Software Assurance Maturity Model)** assessments and improvement roadmaps.
 
