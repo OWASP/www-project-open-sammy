@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Open SAMMY: The OWASP SAMM Management Tool
+title: OWASP Open SAMMY - The OWASP SAMM Management Tool
 tags: example-tag
 level: 2
 type: code
