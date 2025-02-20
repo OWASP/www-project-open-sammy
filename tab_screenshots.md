@@ -3,7 +3,7 @@ title: Screenshots
 layout:  null
 tab: true
 order: 1
-tags: screenshots
+tags: example-tag
 ---
 
 ## Open SAMMY Screenshots

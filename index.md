@@ -19,22 +19,14 @@ With Open SAMMY, security teams can:
 - **Demonstrate Improvements**: Demonstrate tangible and measurable improvements to the organization and the team. 
 
 ### Key Features
-
-✅ **SAMM-Based Assessments** – Conduct and manage assessments based on OWASP SAMM to gain insights into current security maturity.
-
-✅ **Roadmap Planning** – Develop data-driven improvement plans to enhance application security processes.
-
-✅ **Collaboration & Reporting** – Enable teams to work together efficiently, track changes, and generate reports.
-
-✅ **Open-Source & Community-Driven** – As an OWASP project, Open SAMMY benefits from community contributions and transparency.
-
-✅ **Percent to Target** – Support for the new OWASP SAMM **Percent to target** metric that provides a pragmatic answer to the "Not applicable" issue.
-
-✅ **Upcoming DSOMM Support** – Future integration with **OWASP DSOMM** (DevSecOps Maturity Model) to expand security maturity assessments into DevSecOps.
+* ✅ **OWASP SAMM-Based Assessments** – Conduct and manage assessments based on OWASP SAMM to gain insights into current security maturity.
+* ✅ **Roadmap Planning** – Develop data-driven improvement plans to enhance application security processes.
+* ✅ **Open-Source & Community-Driven** – As an OWASP project, Open SAMMY benefits from community contributions and transparency.
+* ✅ **Percent to Target** – Support for the new OWASP SAMM **Percent to target** metric that provides a pragmatic answer to the "Not applicable" issue.
+* ✅ **Upcoming DSOMM Support** – Future integration with **OWASP DSOMM** (DevSecOps Maturity Model) to expand security maturity assessments into DevSecOps.
  
 
 ### Why Use Open SAMMY?
-
 - **Tailored for Application Security**: Built specifically to align with **OWASP SAMM**, ensuring comprehensive security maturity management.
 - **Extensible & Future-Proof**: Designed to support additional frameworks like OWASP DSOMM and other security models.
 
