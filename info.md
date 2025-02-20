@@ -1,17 +1,7 @@
 ### Open SAMMY Information
-* [Incubator Project](#)
-* [Type of Project](#)
-* [Version 0.0.0](#)
-* [Builder](#)
-* [Breaker](#)
-
-### Downloads or Social Links
-* [Download](#)
-* [Meetup](#)
+* Incubator Project
+* Version 2.0.0
 
 ### Code Repository
-* [repo](#)
-
-### Change Log
-* [changes](#)
+* [Code repository](https://github.com/OWASP/open-sammy)
 
