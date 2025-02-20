@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Open SAMMY
-tags: example-tag
+tags: open-sammy
 level: 2
 type: code
 pitch: Open SAMMY is an open source OWASP SAMM management and implementation tool
