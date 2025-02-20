@@ -9,10 +9,10 @@ tags: example-tag
 ## Open SAMMY Screenshots
 
 ### Dashboard
-![Dashboard Screenshot](/assets/images/dashboard.png)
+<img src="./assets/images/dashboard.png">
 
 ### Assessment
-![Assessments Screenshot](/assets/images/assessment.png)
+<img src="./assets/images/assessment.png">
 
 ### Reporting
-![Reporting Screenshot](/assets/images/reporting.png)
+<img src="./assets/images/reporting.png">
