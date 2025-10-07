@@ -1,0 +1,27 @@
+audience:
+  - builder
+  - defender
+leaders:
+  - name: Aram Hovsepyan
+    github: aramhovsepyan
+  - name: Dimitar Raichev
+    github: DRaichev
+  - name: Alex Ashkov
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP Open SAMMY
+pitch: Open SAMMY is an open source OWASP SAMM management and implementation tool
+repositories:
+  - name: www-project-open-sammy
+    url: https://github.com/OWASP/www-project-open-sammy
+    description: OWASP Foundation web repository
+  - name: open-sammy
+    url: https://github.com/OWASP/open-sammy
+    description: Open SAMMY codebase
+tags:
+  - open-sammy
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-open-sammy
